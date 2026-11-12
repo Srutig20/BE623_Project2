@@ -28,6 +28,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+#https://github.com/Srutig20/BE623_Project2
 
 getwd()
 setwd("C:/Users/USER/Downloads/project")
